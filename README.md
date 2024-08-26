@@ -11,7 +11,8 @@ See more: https://twitter.com/nghiencuuthuoc | https://facebook.com/nghiencuuthu
 # PharmApp-IIG-Formula-Notebooks
 PharmApp-IIG-Formula-Notebooks part of the PharmApo project.
 
-Notebooks for get inactive ingredients and join with inactive ingredients database from FDA. Export data to excel or csv. useful for development formulation
+#### Notebooks for get inactive ingredients DailyMed and join with inactive ingredients database from FDA. Export data Formulation to excel or csv. useful for development formulation
+#### Current run with name drug Nexium (esomeprazole magnesium) - AstraZeneca manufacture.
 
 ## 1. Load Inactive Ingredients Database from FDA 
 ![](./images/iir_database.jpg)
