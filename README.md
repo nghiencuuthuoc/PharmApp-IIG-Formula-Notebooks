@@ -23,3 +23,4 @@ Notebooks for get inactive ingredients and join with inactive ingredients databa
 #### View file Nexium in excel
 ![](./images/nexium_formula_full_export.jpg)
 
+## 4. [Run PharmApp-IIG-Formula-Notebooks](https://github.com/nghiencuuthuoc/PharmApp-IIG-Formula-Notebooks/blob/main/PharmApp-IIG-Formula-Notebooks.ipynb)
